@@ -18,4 +18,3 @@ ORDER BY symbol, date
 limit 15;
 
 
-
