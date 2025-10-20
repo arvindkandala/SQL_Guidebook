@@ -1,0 +1,7 @@
+-- SELECT, FROM, WHERE, ORDER BY, LIMIT
+SELECT *
+FROM prices
+WHERE symbol = 'AAPL'
+ORDER BY date ASC
+LIMIT 5;
+
