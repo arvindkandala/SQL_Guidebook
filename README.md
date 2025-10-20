@@ -2,7 +2,8 @@
 Practice and guide for basic SQL functions
 
 My queries included:
-    -creating table and inserting column headers (I did it directly in terminal instead of putting the query in a sql file) 
+
+    - creating table and inserting column headers (I did it directly in terminal instead of putting the query in a sql file) 
         Pictures in screenshots for grading folder CreateTable
 
     - insert data into prices: load_prices.sql
