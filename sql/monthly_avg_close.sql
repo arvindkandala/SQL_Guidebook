@@ -1,4 +1,4 @@
--- group by and having
+-- group by, having, avg, string/date function
 SELECT
     symbol,
     strftime('%Y-%m', date) as ym,
